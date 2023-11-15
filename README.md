@@ -5,7 +5,7 @@
 ✅ Dataset: 3,722(train) / 931(test)  
 
 ### Pre-processing
-- 각 colunm별 결측치 확인, 결측치 없음
+- 각 colunm별 결측치 확인(결측치 없음)
 - 범주형(명목형: Nominal) 변수 One-hot Encoding ➡️ cat2num 함수로 구현
 - 상관관계 확인 ➡️ 기준과 바교했을 때 상관계수가 가장 낮은 feature 제거 
    ###### ❔❓ PCA(차원축소를 적용해보면 어떨까?)
