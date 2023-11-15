@@ -1,6 +1,6 @@
 ## Binary-classification  
 
-### Descripion  
+### Description  
 💡 직원 데이터로부터 해당 직원의 퇴사 여부를 결정하는 Binary Classification task  
 ✅ Dataset: 3,722(train) / 931(test)  
 
