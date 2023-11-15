@@ -8,7 +8,7 @@
 - 각 colunm별 결측치 확인(결측치 없음)
 - 범주형(명목형: Nominal) 변수 One-hot Encoding ➡️ cat2num 함수로 구현
 - 상관관계 확인 ➡️ label과 비교했을 때 상관계수가 가장 낮은 feature 제거 
-   ###### ❔❓ PCA(차원축소)를 적용해보면 어떨까?)
+   ###### ❔❓ PCA(차원축소)를 적용해보면 어떨까?
 - training data / validation data 분리
 - 값이 변하는 scale의 차이가 크면 학습 시 어려움이 있을 수 있음 ➡️ normalization 적용
 
