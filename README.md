@@ -13,7 +13,8 @@
 - 값이 변하는 scale의 차이가 크면 학습 시 어려움이 있을 수 있음 ➡️ normalization 적용
 
 ### Training
-- LightGBM, CatBoost, Random Forest ➡️ **Stacking** , final estimator: LGBMClassifier
+- ML: LightGBM, CatBoost, Random Forest ➡️ **Stacking** , final estimator: LGBMClassifier
+- DL: Basic DNN(Deep Neural Network) architecture
 
 
 ### Results
