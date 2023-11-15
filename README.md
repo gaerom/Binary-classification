@@ -20,3 +20,5 @@
 ### Results
 Stacking Training Accuracy: 0.8629492777964394  
 Stacking Validation Accuracy: 0.8617449664429531
+
+- 머신러닝 알고리즘의 성능이 더 높게 측정됨
